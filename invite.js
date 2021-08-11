@@ -1,5 +1,5 @@
 var iOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
-var ur="http://free10gb.payuplay.in/done.php";
+var ur="";
 if(iOS)
 {
 ur="http://free10gb.payuplay.in/done.php";
