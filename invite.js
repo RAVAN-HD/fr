@@ -1,8 +1,8 @@
 var iOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
-var ur="";
+var ur="#";
 if(iOS)
 {
-ur="http://free10gb.payuplay.in/done.php";
+ur="#";
 }
 function setCookie(e,t,n)
 {
